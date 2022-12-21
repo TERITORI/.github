@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.postimg.cc/C1zJ8fmM/Twitter-Original-Header-Dots-curvemode.png" alt="Teritori" title="Teritori" height="300px" />
+  <img src="https://raw.githubusercontent.com/TERITORI/.github/blob/main/images/logo-hero-wide-2022.png" alt="Teritori" title="Teritori" height="300px" />
 </h1>
 
 Built on Cosmos SDK, Teritori aims to enhance Web3 individuals, communities & builders experience through an all-in-one hub of dApps.
