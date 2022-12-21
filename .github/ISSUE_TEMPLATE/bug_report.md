@@ -21,7 +21,8 @@ assignees: ''
 > - Code sample to reproduce the issue
 > - Log files (redact/remove sensitive information)
 > - Application settings (redact/remove sensitive information)
-> - Screenshots
+> - Screenshots 
+>   - Sometimes a short video is even better we recommend [Kap](https://getkap.co/)
 
 ### Environment
 
